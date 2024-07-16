@@ -7,8 +7,6 @@ const Header = () => {
       <Link href={"/"}>Ir para home</Link>
       <br />
       <Link href={"page2"}>Ir para Pagina 2</Link>
-      <br />
-      <Link href={"sqlite"}>Sqlite integration</Link>
     </header>
   );
 };
